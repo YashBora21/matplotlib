@@ -1,7 +1,6 @@
-#  Netflix Data Visualization Project with Matplotlib
+#   Data Visualization Project 
 
-This repository showcases my learning journey and project work using **Matplotlib** — one of the most widely used Python libraries for data visualization.
-
+This repository showcases my learning journey and project work in **Data_Visualisation**
 ## ✅\ Project Overview
 
 - **Dataset Used**: [`netflix_titles.csv`](https://www.kaggle.com/datasets/shivamb/netflix-shows)
@@ -28,13 +27,14 @@ This repository showcases my learning journey and project work using **Matplotli
 
 - `matplotlib`
 - `pandas`
-- (optionally) `seaborn` for styling
-
+-  `seaborn` for styling
+-  `plotly`
+-  `cufflinks`
 ---
 
  How to Run
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YashBora21/matplotlib.git
-cd matplotlib
+git clone https://github.com/YashBora21/Data_Visualisation.git
+cd Data_Visualisation
